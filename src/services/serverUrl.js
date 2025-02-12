@@ -1,0 +1,1 @@
+export const serverUrl='https://writely-backend.onrender.com'
